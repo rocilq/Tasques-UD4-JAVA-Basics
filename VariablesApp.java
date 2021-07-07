@@ -20,9 +20,9 @@ public class VariablesApp {
 		System.out.println("A="+a+" B="+b);
 		System.out.println("La suma es "+(a+b));
 		System.out.println("La resta es "+(a-b));
-		System.out.println("La multiplicaciÃ³n es "+(a*b));
-		System.out.println("La divisiÃ³n es "+(a/b));
-		System.out.println("El mÃ³dulo es "+(a%b));
+		System.out.println("La multiplicación es "+(a*b));
+		System.out.println("La división es "+(a/b));
+		System.out.println("El módulo es "+(a%b));
 	}
 	
 	public static void ejercicio2() {
@@ -33,7 +33,7 @@ public class VariablesApp {
 		System.out.println("Valor de N: " + n + "\nValor de A: " + a + "\nValor de C: " + c);
 		System.out.println("Suma N + A = "+(n+a));
 		System.out.println("Diferencia de A - N = "+(a-n));
-		System.out.println("Valor numÃ©rico correspondiente a C: " + (int)c);
+		System.out.println("Valor numérico correspondiente a C: " + (int)c);
 	}
 	
 	public static void ejercicio3() {
